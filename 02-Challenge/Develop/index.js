@@ -12,7 +12,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "write the descriptipn of your README",
+    message: "write the description of your README",
     name: "description",
   },
   {
